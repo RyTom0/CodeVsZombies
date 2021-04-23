@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies.csproj": {}
+    "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombiesTest\\CodeVsZombiesTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies.csproj": {
+    "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombiesTest\\CodeVsZombiesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies.csproj",
-        "projectName": "CodeVsZombies",
-        "projectPath": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies.csproj",
+        "projectUniqueName": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombiesTest\\CodeVsZombiesTest.csproj",
+        "projectName": "CodeVsZombiesTest",
+        "projectPath": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombiesTest\\CodeVsZombiesTest.csproj",
         "packagesPath": "C:\\Users\\Sticky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombies\\obj\\",
+        "outputPath": "C:\\Users\\Sticky\\Source\\Repos\\RyTom0\\CodeVsZombies\\CodeVsZombies\\CodeVsZombiesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sticky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
